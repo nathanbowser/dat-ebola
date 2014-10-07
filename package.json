@@ -2,9 +2,9 @@
   "name": "dat-ebola",
   "version": "1.0.0",
   "description": "Tracks ebola data in dat",
-  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "dat listen",
+    "import": "node lib/populate"
   },
   "repository": {
     "type": "git",
