@@ -1,0 +1,23 @@
+{
+  "name": "dat-ebola",
+  "version": "1.0.0",
+  "description": "Tracks ebola data in dat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nathanbowser/dat-ebola.git"
+  },
+  "author": "Nathan Bowser <nathan@spiderstrategies.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nathanbowser/dat-ebola/issues"
+  },
+  "homepage": "https://github.com/nathanbowser/dat-ebola",
+  "dependencies": {
+    "cheerio": "^0.17.0",
+    "request": "^2.45.0"
+  }
+}
