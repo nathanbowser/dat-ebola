@@ -1,6 +1,6 @@
 {
   "name": "dat-ebola",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Tracks ebola data in dat",
   "scripts": {
     "start": "dat listen",
