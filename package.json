@@ -17,8 +17,9 @@
   },
   "homepage": "https://github.com/nathanbowser/dat-ebola",
   "dependencies": {
-    "cheerio": "^0.17.0",
     "dat": "^6.7.1",
+    "event-stream": "^3.1.7",
+    "fast-csv": "^0.5.3",
     "request": "^2.45.0"
   }
 }
